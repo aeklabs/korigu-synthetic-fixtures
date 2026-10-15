@@ -1,0 +1,11 @@
+{
+  "query": "balanced binary trees",
+  "number_of_results": 1,
+  "results": [
+    {
+      "title": "Synthetic public reference",
+      "url": "https://aeklabs.github.io/korigu-synthetic-fixtures/clean",
+      "content": "A synthetic public reference about balanced binary trees."
+    }
+  ]
+}
